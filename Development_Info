@@ -1,0 +1,6 @@
+SharePoint 2019 SPFx Development
+  - node-v16.18.1-x64 (node --version)
+  - Extract gulp-cli to C:\Users\<username>\AppData\Roaming\npm\node_modules
+  - Extract yo to C:\Users\<username>\AppData\Roaming\npm\node_modules
+  - Extract @microsoft to C:\Users\<username>\AppData\Roaming\npm\node_modules
+  - Extract npm_folder to C:\Users\<username>\AppData\Roaming\npm
